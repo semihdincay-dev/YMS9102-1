@@ -1,5 +1,5 @@
 # YMS9102
-GitHub Tutorial
+GitBob Tutorial
 
 # Welcome to HayırdırEdit!
 
